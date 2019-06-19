@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1560777344289.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2011940663",
+    "id" : "548E59CA",
+    "lastKnownWriteTime" : 1560777615,
+    "last_content_update" : 1560777615224,
+    "path" : "C:/Users/Alex/Desktop/r/Karolina2/diagrama2.r",
+    "project_path" : "diagrama2.r",
+    "properties" : {
+        "cursorPosition" : "23,8",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : true,
+    "source_window" : "",
+    "type" : "r_source"
+}
